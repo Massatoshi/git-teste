@@ -1,0 +1,1 @@
+Arquivo para realizar os testes com o GIT.
